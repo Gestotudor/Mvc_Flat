@@ -1,0 +1,28 @@
+C:\Users\Section2\source\repos\FlatMVC\DAL\bin\Debug\DAL.dll.config
+C:\Users\Section2\source\repos\FlatMVC\DAL\bin\Debug\DAL.dll
+C:\Users\Section2\source\repos\FlatMVC\DAL\bin\Debug\DAL.pdb
+C:\Users\Section2\source\repos\FlatMVC\DAL\bin\Debug\Entity.dll
+C:\Users\Section2\source\repos\FlatMVC\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Section2\source\repos\FlatMVC\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Section2\source\repos\FlatMVC\DAL\bin\Debug\Entity.pdb
+C:\Users\Section2\source\repos\FlatMVC\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Section2\source\repos\FlatMVC\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Section2\source\repos\FlatMVC\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Section2\source\repos\FlatMVC\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Section2\source\repos\FlatMVC\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Section2\source\repos\FlatMVC\DAL\obj\Debug\DAL.dll
+C:\Users\Section2\source\repos\FlatMVC\DAL\obj\Debug\DAL.pdb
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\DAL\bin\Debug\DAL.dll.config
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\DAL\bin\Debug\DAL.dll
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\DAL\bin\Debug\DAL.pdb
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\DAL\bin\Debug\Entity.dll
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\DAL\bin\Debug\Entity.pdb
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\DAL\obj\Debug\DAL.dll
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\DAL\obj\Debug\DAL.pdb

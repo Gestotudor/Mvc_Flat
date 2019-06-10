@@ -1,0 +1,178 @@
+C:\Users\Section2\source\repos\FlatMVC\FlatMVC\bin\FlatMVC.dll.config
+C:\Users\Section2\source\repos\FlatMVC\FlatMVC\bin\FlatMVC.dll
+C:\Users\Section2\source\repos\FlatMVC\FlatMVC\bin\FlatMVC.pdb
+C:\Users\Section2\source\repos\FlatMVC\FlatMVC\bin\roslyn\csc.exe
+C:\Users\Section2\source\repos\FlatMVC\FlatMVC\bin\roslyn\csc.exe.config
+C:\Users\Section2\source\repos\FlatMVC\FlatMVC\bin\roslyn\csc.rsp
+C:\Users\Section2\source\repos\FlatMVC\FlatMVC\bin\roslyn\csi.exe
+C:\Users\Section2\source\repos\FlatMVC\FlatMVC\bin\roslyn\csi.exe.config
+C:\Users\Section2\source\repos\FlatMVC\FlatMVC\bin\roslyn\csi.rsp
+C:\Users\Section2\source\repos\FlatMVC\FlatMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Section2\source\repos\FlatMVC\FlatMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Section2\source\repos\FlatMVC\FlatMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Section2\source\repos\FlatMVC\FlatMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Section2\source\repos\FlatMVC\FlatMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Section2\source\repos\FlatMVC\FlatMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Section2\source\repos\FlatMVC\FlatMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Section2\source\repos\FlatMVC\FlatMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Section2\source\repos\FlatMVC\FlatMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Section2\source\repos\FlatMVC\FlatMVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Section2\source\repos\FlatMVC\FlatMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Section2\source\repos\FlatMVC\FlatMVC\bin\roslyn\System.AppContext.dll
+C:\Users\Section2\source\repos\FlatMVC\FlatMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Section2\source\repos\FlatMVC\FlatMVC\bin\roslyn\System.Console.dll
+C:\Users\Section2\source\repos\FlatMVC\FlatMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Section2\source\repos\FlatMVC\FlatMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Section2\source\repos\FlatMVC\FlatMVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\Section2\source\repos\FlatMVC\FlatMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Section2\source\repos\FlatMVC\FlatMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Section2\source\repos\FlatMVC\FlatMVC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Section2\source\repos\FlatMVC\FlatMVC\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Section2\source\repos\FlatMVC\FlatMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Section2\source\repos\FlatMVC\FlatMVC\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Section2\source\repos\FlatMVC\FlatMVC\bin\roslyn\System.Security.Claims.dll
+C:\Users\Section2\source\repos\FlatMVC\FlatMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Section2\source\repos\FlatMVC\FlatMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Section2\source\repos\FlatMVC\FlatMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Section2\source\repos\FlatMVC\FlatMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Section2\source\repos\FlatMVC\FlatMVC\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Section2\source\repos\FlatMVC\FlatMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Section2\source\repos\FlatMVC\FlatMVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\Section2\source\repos\FlatMVC\FlatMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Section2\source\repos\FlatMVC\FlatMVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Section2\source\repos\FlatMVC\FlatMVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Section2\source\repos\FlatMVC\FlatMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Section2\source\repos\FlatMVC\FlatMVC\bin\roslyn\vbc.exe
+C:\Users\Section2\source\repos\FlatMVC\FlatMVC\bin\roslyn\vbc.exe.config
+C:\Users\Section2\source\repos\FlatMVC\FlatMVC\bin\roslyn\vbc.rsp
+C:\Users\Section2\source\repos\FlatMVC\FlatMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Section2\source\repos\FlatMVC\FlatMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Section2\source\repos\FlatMVC\FlatMVC\bin\Antlr3.Runtime.dll
+C:\Users\Section2\source\repos\FlatMVC\FlatMVC\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Section2\source\repos\FlatMVC\FlatMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Section2\source\repos\FlatMVC\FlatMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Section2\source\repos\FlatMVC\FlatMVC\bin\Newtonsoft.Json.dll
+C:\Users\Section2\source\repos\FlatMVC\FlatMVC\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Section2\source\repos\FlatMVC\FlatMVC\bin\System.Web.Helpers.dll
+C:\Users\Section2\source\repos\FlatMVC\FlatMVC\bin\System.Web.Mvc.dll
+C:\Users\Section2\source\repos\FlatMVC\FlatMVC\bin\System.Web.Optimization.dll
+C:\Users\Section2\source\repos\FlatMVC\FlatMVC\bin\System.Web.Razor.dll
+C:\Users\Section2\source\repos\FlatMVC\FlatMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Section2\source\repos\FlatMVC\FlatMVC\bin\System.Web.WebPages.dll
+C:\Users\Section2\source\repos\FlatMVC\FlatMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Section2\source\repos\FlatMVC\FlatMVC\bin\WebGrease.dll
+C:\Users\Section2\source\repos\FlatMVC\FlatMVC\bin\System.Web.Helpers.xml
+C:\Users\Section2\source\repos\FlatMVC\FlatMVC\bin\System.Web.Mvc.xml
+C:\Users\Section2\source\repos\FlatMVC\FlatMVC\bin\System.Web.Optimization.xml
+C:\Users\Section2\source\repos\FlatMVC\FlatMVC\bin\System.Web.Razor.xml
+C:\Users\Section2\source\repos\FlatMVC\FlatMVC\bin\System.Web.WebPages.xml
+C:\Users\Section2\source\repos\FlatMVC\FlatMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Section2\source\repos\FlatMVC\FlatMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Section2\source\repos\FlatMVC\FlatMVC\bin\Newtonsoft.Json.xml
+C:\Users\Section2\source\repos\FlatMVC\FlatMVC\bin\Antlr3.Runtime.pdb
+C:\Users\Section2\source\repos\FlatMVC\FlatMVC\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Section2\source\repos\FlatMVC\FlatMVC\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Section2\source\repos\FlatMVC\FlatMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Section2\source\repos\FlatMVC\FlatMVC\obj\Debug\FlatMVC.csprojAssemblyReference.cache
+C:\Users\Section2\source\repos\FlatMVC\FlatMVC\obj\Debug\FlatMVC.csproj.CoreCompileInputs.cache
+C:\Users\Section2\source\repos\FlatMVC\FlatMVC\obj\Debug\FlatMVC.csproj.CopyComplete
+C:\Users\Section2\source\repos\FlatMVC\FlatMVC\obj\Debug\FlatMVC.dll
+C:\Users\Section2\source\repos\FlatMVC\FlatMVC\obj\Debug\FlatMVC.pdb
+C:\Users\Section2\source\repos\FlatMVC\FlatMVC\bin\DAL.dll
+C:\Users\Section2\source\repos\FlatMVC\FlatMVC\bin\Entity.dll
+C:\Users\Section2\source\repos\FlatMVC\FlatMVC\bin\EntityFramework.dll
+C:\Users\Section2\source\repos\FlatMVC\FlatMVC\bin\DAL.pdb
+C:\Users\Section2\source\repos\FlatMVC\FlatMVC\bin\DAL.dll.config
+C:\Users\Section2\source\repos\FlatMVC\FlatMVC\bin\Entity.pdb
+C:\Users\Section2\source\repos\FlatMVC\FlatMVC\bin\EntityFramework.xml
+C:\Users\Section2\source\repos\FlatMVC\FlatMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\Section2\source\repos\FlatMVC\FlatMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\FlatMVC\bin\FlatMVC.dll.config
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\FlatMVC\bin\FlatMVC.dll
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\FlatMVC\bin\FlatMVC.pdb
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\FlatMVC\bin\roslyn\csc.exe
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\FlatMVC\bin\roslyn\csc.exe.config
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\FlatMVC\bin\roslyn\csc.rsp
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\FlatMVC\bin\roslyn\csi.exe
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\FlatMVC\bin\roslyn\csi.exe.config
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\FlatMVC\bin\roslyn\csi.rsp
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\FlatMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\FlatMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\FlatMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\FlatMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\FlatMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\FlatMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\FlatMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\FlatMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\FlatMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\FlatMVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\FlatMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\FlatMVC\bin\roslyn\System.AppContext.dll
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\FlatMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\FlatMVC\bin\roslyn\System.Console.dll
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\FlatMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\FlatMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\FlatMVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\FlatMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\FlatMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\FlatMVC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\FlatMVC\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\FlatMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\FlatMVC\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\FlatMVC\bin\roslyn\System.Security.Claims.dll
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\FlatMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\FlatMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\FlatMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\FlatMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\FlatMVC\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\FlatMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\FlatMVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\FlatMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\FlatMVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\FlatMVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\FlatMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\FlatMVC\bin\roslyn\vbc.exe
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\FlatMVC\bin\roslyn\vbc.exe.config
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\FlatMVC\bin\roslyn\vbc.rsp
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\FlatMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\FlatMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\FlatMVC\bin\Antlr3.Runtime.dll
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\FlatMVC\bin\DAL.dll
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\FlatMVC\bin\Entity.dll
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\FlatMVC\bin\EntityFramework.dll
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\FlatMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\FlatMVC\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\FlatMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\FlatMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\FlatMVC\bin\Newtonsoft.Json.dll
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\FlatMVC\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\FlatMVC\bin\System.Web.Helpers.dll
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\FlatMVC\bin\System.Web.Mvc.dll
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\FlatMVC\bin\System.Web.Optimization.dll
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\FlatMVC\bin\System.Web.Razor.dll
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\FlatMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\FlatMVC\bin\System.Web.WebPages.dll
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\FlatMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\FlatMVC\bin\WebGrease.dll
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\FlatMVC\bin\DAL.pdb
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\FlatMVC\bin\DAL.dll.config
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\FlatMVC\bin\Entity.pdb
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\FlatMVC\bin\EntityFramework.xml
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\FlatMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\FlatMVC\bin\System.Web.Helpers.xml
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\FlatMVC\bin\System.Web.Mvc.xml
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\FlatMVC\bin\System.Web.Optimization.xml
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\FlatMVC\bin\System.Web.Razor.xml
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\FlatMVC\bin\System.Web.WebPages.xml
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\FlatMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\FlatMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\FlatMVC\bin\Newtonsoft.Json.xml
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\FlatMVC\bin\Antlr3.Runtime.pdb
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\FlatMVC\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\FlatMVC\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\FlatMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\FlatMVC\obj\Debug\FlatMVC.csprojAssemblyReference.cache
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\FlatMVC\obj\Debug\FlatMVC.csproj.CoreCompileInputs.cache
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\FlatMVC\obj\Debug\FlatMVC.csproj.CopyComplete
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\FlatMVC\obj\Debug\FlatMVC.dll
+C:\Users\Uğur Özbek\Desktop\Projeler\FlatMVC\FlatMVC\obj\Debug\FlatMVC.pdb

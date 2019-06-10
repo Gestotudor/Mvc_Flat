@@ -1,0 +1,89 @@
+﻿@using Entity
+@model IEnumerable<Work>
+        <!-- WORKS SECTION ############################################### -->
+<!-- Title /-->
+
+<div class="row">
+
+    <div class="twelve columns">
+
+        <h3>Latest works</h3>
+
+    </div>
+
+</div>
+
+<!-- Grid of Works /-->
+<section id="works">
+
+    <!-- ROW -->
+
+    <div id="projects_grid" class="row">
+
+        <!-- DATA FILER -->
+
+        <ul class="filter">
+            <li><a class="active" href="#" data-filter="*">All</a></li>
+            @foreach (WorkCategory item in ViewBag.Categories)
+            {
+                <li><a href="#" data-filter=".@item.Name">@item.Name</a></li>
+            }
+        </ul>
+
+        <ul class="items three_up tiles centered">
+
+            @foreach (var item in Model)
+            {
+                <li class="worksmall item @string.Join(" ",item.Categories.Select(x=>x.Name))">
+                    <a onclick="detaygoster(@Html.Raw("'#work" + item.Id+"'"))">
+                        <img src="~/Content/Works/@item.ImageURL"  height="250" alt="EXEMPLE" style="height:250px;">
+                        <div>
+                            <h5>@item.Title</h5>
+                            <span>@item.ShortDesc</span>
+                        </div>
+                    </a>
+                </li>
+            }
+
+
+        </ul>
+
+    </div>
+    <!-- PORTFOLIO DETAIL CONTAINER -->
+    <div id="portfolio_detail">
+
+        @foreach (var item in Model)
+        {
+            <!-- PORTFOLIO DETAIL -->
+            <div id="@Html.Raw("work"+ item.Id)" class="row slide_portfolio">
+
+                <div class="seven columns centered">
+
+                    <img class="closeit" src="/Content/img/close.png" alt="Close Project" onclick="$('.slide_portfolio').slideUp(); $('html, body').animate({scrollTop: $('#works').offset().top -70 }, 800);">
+
+                    <h3>@item.Title</h3>
+
+                    @Html.Raw(item.LongDesc)
+
+                </div>
+
+            </div>
+
+
+        }
+    </div> 	<!-- END PORTFOLIO DETAIL CONTAINER -->
+
+</section>
+
+<!-- END WORKS SECTION ############################################### -->
+
+<script>
+    function detaygoster(acilacak) {
+        $('.slide_portfolio').slideUp();
+        console.log(acilacak);
+        $(acilacak).slideDown();
+        $('html, body').animate({
+            scrollTop: $('#portfolio_detail').offset().top
+        }, 800);
+    }
+</script>

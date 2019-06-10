@@ -1,0 +1,99 @@
+﻿@model Entity.General
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2>Genel Ayarlar</h2>
+
+@if (ViewBag.ShowCreateNew)
+{
+    <p>
+        @Html.ActionLink("Create New", "Create")
+    </p>
+}
+
+<table class="table">
+    <tr>
+        <td>
+            @Html.DisplayNameFor(model => model.LogoURL)
+        </td>
+        <td>
+            <img src="~/Content/@Model.LogoURL" height="150" />
+        </td>
+    </tr>
+    <tr>
+        <td>
+            @Html.DisplayNameFor(model => model.SiteTitle)
+        </td>
+        <td>
+            @Model.SiteTitle
+        </td>
+    </tr>
+    <tr>
+        <td>
+            @Html.DisplayNameFor(model => model.SiteDesc)
+        </td>
+        <td>@Model.SiteDesc</td>
+    </tr>
+    <tr>
+        <td>
+            @Html.DisplayNameFor(model => model.HeaderTitle)
+        </td>
+        <td>@Model.HeaderTitle</td>
+    </tr>
+    <tr>
+        <td>
+            @Html.DisplayNameFor(model => model.HeaderDescription)
+        </td>
+        <td>@Model.HeaderDescription</td>
+    </tr>
+    <tr>
+        <td>
+            @Html.DisplayNameFor(model => model.CTA1_Title)
+        </td>
+        <td>@Model.CTA1_Title</td>
+    </tr>
+    <tr>
+        <td>
+            @Html.DisplayNameFor(model => model.CTA1_Description)
+        </td>
+        <td>@Model.CTA1_Description</td>
+    </tr>
+    <tr>
+        <td>
+            @Html.DisplayNameFor(model => model.CTA2_Title)
+        </td>
+        <td>@Model.CTA2_Title</td>
+    </tr>
+    <tr>
+        <td>
+            @Html.DisplayNameFor(model => model.CTA2_Button)
+        </td>
+        <td>@Model.CTA2_Button</td>
+    </tr>
+    <tr>
+        <td>
+            @Html.DisplayNameFor(model => model.Address)
+        </td>
+        <td>@Model.Address</td>
+    </tr>
+    <tr>
+        <td>
+            @Html.DisplayNameFor(model => model.Email)
+        </td>
+        <td>@Model.Email</td>
+    </tr>
+    <tr>
+        <td>
+            @Html.DisplayNameFor(model => model.Phone)
+        </td>
+        <td>@Model.Phone</td>
+    </tr>
+    <tr>
+        <td>
+            @Html.ActionLink("Düzenle","Edit",null,new { @class="btn btn-primary"})
+        </td>
+    </tr>
+</table>
